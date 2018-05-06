@@ -1,3 +1,19 @@
+
+.info{
+    background: #c9c1ac;
+}
 body{
-	font-family: 'Monsieur La Doulaise', cursive;
+	font-family: 'Mr Dafoe', cursive;
+}
+.primary-color{
+    color: #d3325f;
+}
+.info h2{
+    word-spacing: 0.6rem;
+}
+.info a{
+    transition: color 2s ease-in-out;
+}
+.info a:hover{
+    color: #242424;
 }
